@@ -1,0 +1,3 @@
+1-Crear una mesa controladora (propongo que se pueda manejar tambien con teclado)
+2-Detectar sonido
+3-transformar sonido recibido en imagen ( tiene q haver forma de acceder a lo que crea las imagenes haciendolo editable con los controles)
